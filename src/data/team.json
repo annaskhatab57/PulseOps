@@ -1,0 +1,62 @@
+[
+
+    {
+        "id":1,
+        "name":"Amna Nazim",
+        "initials":"AN",
+        "role":"Operations Lead",
+        "department":"Operations",
+        "email":"amnanazim@gmail.com",
+        "status":"Active",
+        "projects":12
+    },
+    {
+        "id":2,
+        "name":"Aashan Mumtaz",
+        "initials":"AM",
+        "role":"Account Manager",
+        "department":"Sales",
+        "email":"aashanmumtaz@gmail.com",
+        "status":"Active",
+        "projects":8},
+    {
+        "id":3,
+        "name":"Maaz Ali",
+        "initials":"MA",
+        "role":"Marketing Analyst",
+        "department":"Marketing",
+        "email":"maazali@gmail.com",
+        "status":"Active",
+        "projects":15
+    },
+    {
+        "id":4,
+        "name":"Ahsaan Saeed",
+        "initials":"AS",
+        "role":"Product Specialist",
+        "department":"Enterprise",
+        "email":"ahsansaeed@gmail.com",
+        "status":"Away",
+        "projects":6
+    },
+    {
+        "id":5,
+        "name":"Anas Abid",
+        "initials":"AA",
+        "role":"Data Analyst",
+        "department":"Operations",
+        "email":"anasabid@gmail.com",
+        "status":"Active",
+        "projects":10
+    },
+    {
+        "id":6,
+        "name":"Asim Kayani",
+        "initials":"AK",
+        "role":"Sales Associate",
+        "department":"Sales",
+        "email":"asimkayani@gmail.com",
+        "status":"Away",
+        "projects":5
+    }
+  ]

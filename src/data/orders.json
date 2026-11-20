@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": "ORD-1001",
+    "customer": "Ali Khan",
+    "product": "Wireless Headphones",
+    "amount": 125,
+    "status": "Completed",
+    "date": "2026-11-01"
+  },
+  {
+    "id": "ORD-1002",
+    "customer": "Sarah Ahmed",
+    "product": "Smart Watch",
+    "amount": 220,
+    "status": "Pending",
+    "date": "2026-11-03"
+  },
+  {
+    "id": "ORD-1003",
+    "customer": "Jalal Akram",
+    "product": "Laptop Stand",
+    "amount": 75,
+    "status": "Completed",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "ORD-1004",
+    "customer": "Alishba Fatima",
+    "product": "Mechanical Keyboard",
+    "amount": 180,
+    "status": "Processing",
+    "date": "2026-11-05"
+  },
+  {
+    "id": "ORD-1005",
+    "customer": "Daood Waseem",
+    "product": "USB-C Hub",
+    "amount": 95,
+    "status": "Pending",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "ORD-1006",
+    "customer": "Fatima Noor",
+    "product": "Gaming Monitor",
+    "amount": 420,
+    "status": "Completed",
+    "date": "2026-11-08"
+  }
+]
